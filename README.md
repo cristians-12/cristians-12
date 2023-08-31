@@ -11,7 +11,7 @@ Habilidades que manejo:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="width:30px;margin:0px 5px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="width:30px;margin:0px 5px;">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="width:30px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="width:30px;margin-bottom:3px">
   
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="30">
 </p>
