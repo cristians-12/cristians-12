@@ -6,11 +6,11 @@ Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre
 
 Habilidades que manejo:
 
-<header style="display:flex;">
+<p>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:30px; display:inline;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="width:30px;display:inline">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="width:30px;display:inline">
-</header>
+</p>
 
 <!--
 **cristians-12/cristians-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
