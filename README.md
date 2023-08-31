@@ -2,7 +2,7 @@
 
 Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre. Me gusta mucho desarrollar aplicaciones web y estar actualizandome y estudiando nuevas tecnologías y librerias. 😄
 
-<img src="https://i.gifer.com/embedded/download/7uiT.gif" style="width:100px">
+<img src="https://i.gifer.com/embedded/download/7uiT.gif" style="width:200px">
 
 Habilidades que manejo:
 
