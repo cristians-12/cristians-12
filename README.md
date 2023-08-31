@@ -2,7 +2,7 @@
 
 Habilidades que manejo:
 
-<header style="display:flex">
+<header style="display:flex;">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:30px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" style="width:30px;">
 </header>
