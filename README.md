@@ -2,6 +2,8 @@
 
 Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre. Me gusta mucho desarrollar aplicaciones web y estar actualizandome y estudiando nuevas tecnologías y librerias. 😄
 
+<img src="https://gifdb.com/images/high/rick-morty-pc-smash-c1475s1hic6zscuk.gif" style="width:300px">
+
 Habilidades que manejo:
 
 <header style="display:flex;">
