@@ -16,10 +16,11 @@ Habilidades que manejo:
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="30">
 </p>
 
-Frameworks y librerias como:
+Conocimiento en frameworks y librerias como:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="width:40px;">
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="30">
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="30">
 </p>
 
 <!--
