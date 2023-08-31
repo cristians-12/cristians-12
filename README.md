@@ -1,6 +1,7 @@
 ### ¡Hola! Soy Cristian 👋
 
-Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre. Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías y librerias. 😄
+Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre.😄
+Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías y librerias.🌱🔧
 
 <img src="https://i.gifer.com/YnA.gif">
 
