@@ -19,8 +19,8 @@ Habilidades que manejo:
 Conocimiento en frameworks y librerias como:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="width:40px;">
-  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="30">
+  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="30" style="margin:0px 5px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40">
 </p>
 
 <!--
