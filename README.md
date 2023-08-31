@@ -1,5 +1,9 @@
 ### ¡Hola! Soy Cristian 👋
 
+Habilidades que manejo:
+
+<h1>Hola</h1>
+
 <!--
 **cristians-12/cristians-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
