@@ -22,6 +22,7 @@ Conocimiento en frameworks y librerias como:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="width:40px;">
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="30" style="margin:0px 5px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40">
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="30">
 </p>
 
 <!--
