@@ -29,7 +29,8 @@ Proyecto de tienda de ropa front y backend con sistema de login:
 https://dacars12.000webhostapp.com
 
 <p>Mini proyectos usando React:</p>
-<a href="https://c12-mouse.surge.sh">Mouse Follower</a>
+<p><a href="https://c12-mouse.surge.sh" target="_blank">Mouse Follower</a></p>
+<p><a href="https://tic-tac-toe-five-roan.vercel.app" target="_blank">Tres en raya</a></p>
 
 <!--
 **cristians-12/cristians-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
