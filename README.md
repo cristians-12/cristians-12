@@ -29,9 +29,7 @@ Proyecto de tienda de ropa front y backend con sistema de login:
 https://dacars12.000webhostapp.com
 
 <p>Mini proyectos usando React:</p>
-<p><a href="https://c12-mouse.surge.sh" target="_blank">Mouse Follower</a></p>
-<p><a href="https://tic-tac-toe-five-roan.vercel.app" target="_blank">Tres en raya</a></p>
-<p><a href="https://api-cat-fact-six.vercel.app" target="_blank">Cat Facts App</a></p>
+<p><a href="https://spotify-clone-mu-sable.vercel.app" target="_blank">Clon de Spotify con Firebase</a></p>
 <p><a href="https://frontend-login-33uyodbp1-cristians-12.vercel.app" target="_blank">Sistema login con CRUD de tasks con backend realizado en Node.JS</a></p>
 
 <!--
