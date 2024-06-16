@@ -3,6 +3,8 @@
 Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre.😄
 <p>Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías y librerias.🌱🔧</p>
 
+<a href="https://c12-portfolio.vercel.app">Ver portafolio</a>
+
 <img src="https://i.gifer.com/YnA.gif">
 
 Habilidades que manejo:
