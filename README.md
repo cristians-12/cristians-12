@@ -3,7 +3,7 @@
 Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre.😄
 <p>Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías y librerias.🌱🔧</p>
 
-<a href="https://portafolio-cristian-steel.vercel.app">Ver portafolio y trabajos.</a>
+## <a href="https://portafolio-cristian-steel.vercel.app" style="font-size:20px">Ver portafolio y trabajos.</a>
 
 <img src="https://i.gifer.com/YnA.gif">
 
