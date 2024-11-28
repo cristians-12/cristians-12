@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Cristian 👋
 
-Soy desarrollador web y estudiante de ingenieria electronica de décimo semestre.😄
+Soy desarrollador web e ingeniero electronico.😄
 <p>Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías y librerias.🌱🔧</p>
 
 ## <a href="https://portafolio-cristian-steel.vercel.app" style="font-size:20px">Ver portafolio y trabajos.</a>
