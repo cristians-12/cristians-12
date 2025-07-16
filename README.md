@@ -1,7 +1,7 @@
 ### ¡Hola! Soy Cristian 👋
 
-Soy desarrollador web e ingeniero electronico.😄
-<p>Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías y librerias.🌱🔧</p>
+Soy desarrollador e ingeniero electronico.😄
+<p>Me gusta mucho desarrollar aplicaciones web, estar actualizandome y estudiando nuevas tecnologías.🌱🔧</p>
 
 ## <a href="https://portafolio-cristian-steel.vercel.app" style="font-size:20px">Ver portafolio y trabajos.</a>
 
@@ -30,9 +30,8 @@ Conocimiento en frameworks y librerias como:
 Proyecto de tienda de ropa front y backend con sistema de login:
 https://dacars12.000webhostapp.com
 
-<p>Mini proyectos usando React:</p>
-<p><a href="https://spotify-clone-mu-sable.vercel.app" target="_blank">Clon de Spotify con Firebase</a></p>
-<p><a href="https://frontend-login-33uyodbp1-cristians-12.vercel.app" target="_blank">Sistema login con CRUD de tasks con backend realizado en Node.JS</a></p>
+<p>Algunos de mis proyectos:</p>
+<p><a href="https://spotify-full.vercel.app" target="_blank">Clon de Spotify con Firebase</a></p>
 
 <!--
 **cristians-12/cristians-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
