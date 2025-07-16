@@ -27,11 +27,8 @@ Conocimiento en frameworks y librerias como:
   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="30">
 </p>
 
-Proyecto de tienda de ropa front y backend con sistema de login:
-https://dacars12.000webhostapp.com
-
 <p>Algunos de mis proyectos:</p>
-<p><a href="https://spotify-full.vercel.app" target="_blank">Clon de Spotify con Firebase</a></p>
+<p><a href="https://spotify-full.vercel.app" target="_blank">Clon de Spotify</a></p>
 
 <!--
 **cristians-12/cristians-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
